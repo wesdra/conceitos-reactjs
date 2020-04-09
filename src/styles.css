@@ -30,10 +30,12 @@ button {
   cursor: pointer;
   margin-top: 15px;
   font-weight: bold;
-  font-size: 14px;
+  font-size: 12px;
+  border-radius: 8px;
 }
 
 div li button {
   margin: 0 15px;
   background: #ca4949;
+ 
 }
